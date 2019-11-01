@@ -1,0 +1,41 @@
+
+nav, header {
+    margin-bottom: 2em;
+}
+
+#maildiv {
+    position: relative;
+}
+
+#mail {
+    position: absolute;
+    padding-right: 1em;
+    bottom: 0;
+    right: 0;
+}
+
+footer {
+    margin-top: 2em;
+}
+
+b {
+    color: dimgrey;
+}
+
+footer p {
+    padding-top: 1em;
+}
+
+.navbar {
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}
+
+nav a {
+    color: darkblue;
+}
+
+
+h4 {
+    padding-bottom: 0.2em;
+}
